@@ -874,4 +874,4 @@ If you found this project useful, consider giving the repository a star on GitHu
 
 The **Web Based Apartment Sales System** is a complete Java web application built with JSP, Servlets, Maven, Apache Tomcat, and Microsoft SQL Server. It includes buyer, seller, and admin workflows with apartment management, booking management, payment handling, review management, favourites, profile management, and FAQ support.
 
-By following this README from the beginning, a new user should be able to clone the repository, open it in IntelliJ IDEA, reload Maven, configure SQL Server, run the database script, deploy the project on Tomcat, and use the web application successfully.
+
